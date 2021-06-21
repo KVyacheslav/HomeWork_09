@@ -1,0 +1,38 @@
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\HomeWork_09.exe
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\HomeWork_09.deps.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\HomeWork_09.runtimeconfig.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\HomeWork_09.runtimeconfig.dev.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\HomeWork_09.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\ref\HomeWork_09.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\HomeWork_09.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\Telegram.Bot.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.AssemblyInfoInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.AssemblyInfo.cs
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.csproj.CopyComplete
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\ref\HomeWork_09.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.genruntimeconfig.cache
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\HomeWork_09.exe
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\HomeWork_09.deps.json
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\HomeWork_09.runtimeconfig.json
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\HomeWork_09.runtimeconfig.dev.json
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\HomeWork_09.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\ref\HomeWork_09.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\HomeWork_09.pdb
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\bin\Debug\net5.0\Telegram.Bot.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.csproj.AssemblyReference.cache
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.AssemblyInfoInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.AssemblyInfo.cs
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.csproj.CopyComplete
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\ref\HomeWork_09.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.pdb
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_09\homework_09\HomeWork_09\obj\Debug\net5.0\HomeWork_09.genruntimeconfig.cache
